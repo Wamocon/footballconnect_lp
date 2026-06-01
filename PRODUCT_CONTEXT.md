@@ -3716,7 +3716,7 @@ VAT Identification Number: DE344930486
 
 ## About the Service
 
-FootballConnect is a web-based Software-as-a-Service platform for digital management and networking in amateur football. The platform enables players to search for and apply to clubs, clubs to manage their members and teams, and coaches to organize their squads. The service is aimed at amateur football clubs, coaches, and players.
+FootballConnect is a web-based Software-as-a-Service platform for digital management and networking in FootballConnect. The platform enables players to search for and apply to clubs, clubs to manage their members and teams, and coaches to organize their squads. The service is aimed at FootballConnect clubs, coaches, and players.
 
 ## ./legal-docs/privacy-policy.md
 # Privacy Policy
@@ -3799,7 +3799,7 @@ These Terms and Conditions apply to the use of the web application FootballConne
 
 ## Section 2 Service Description
 
-FootballConnect is an online platform for connecting amateur football players, coaches, and clubs. The service enables players to search for and apply to clubs, coaches to manage their teams, and clubs to manage members and applications. The free plan includes basic features with limitations, the Pro plan offers extended features.
+FootballConnect is an online platform for connecting FootballConnect players, coaches, and clubs. The service enables players to search for and apply to clubs, coaches to manage their teams, and clubs to manage members and applications. The free plan includes basic features with limitations, the Pro plan offers extended features.
 
 ## Section 3 Terms of Use
 
@@ -3807,7 +3807,7 @@ Using the free service requires registration with an email address. The platform
 
 ## Section 4 Usage Rights
 
-The provider grants the user a simple, non-transferable right to use the platform for the duration of the contract. The user may only use the platform for personal or organisational purposes related to amateur football.
+The provider grants the user a simple, non-transferable right to use the platform for the duration of the contract. The user may only use the platform for personal or organisational purposes related to FootballConnect.
 
 ## Section 5 User Obligations
 
